@@ -1,0 +1,7 @@
+C:\Users\pablo.cruz\WorkSpaceC#\Embodiment of pure chaos\Embodiment of pure chaos\bin\Debug\Embodiment of pure chaos.exe.config
+C:\Users\pablo.cruz\WorkSpaceC#\Embodiment of pure chaos\Embodiment of pure chaos\bin\Debug\Embodiment of pure chaos.exe
+C:\Users\pablo.cruz\WorkSpaceC#\Embodiment of pure chaos\Embodiment of pure chaos\bin\Debug\Embodiment of pure chaos.pdb
+C:\Users\pablo.cruz\WorkSpaceC#\Embodiment of pure chaos\Embodiment of pure chaos\obj\Debug\Embodiment of pure chaos.csprojAssemblyReference.cache
+C:\Users\pablo.cruz\WorkSpaceC#\Embodiment of pure chaos\Embodiment of pure chaos\obj\Debug\Embodiment of pure chaos.csproj.CoreCompileInputs.cache
+C:\Users\pablo.cruz\WorkSpaceC#\Embodiment of pure chaos\Embodiment of pure chaos\obj\Debug\Embodiment of pure chaos.exe
+C:\Users\pablo.cruz\WorkSpaceC#\Embodiment of pure chaos\Embodiment of pure chaos\obj\Debug\Embodiment of pure chaos.pdb
