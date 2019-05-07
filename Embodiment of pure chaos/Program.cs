@@ -24,44 +24,71 @@ namespace Embodiment_of_pure_chaos
 
         }
 
-        public class mimiimimimimimiimimimimimiimimimimimi                  
+        public class mimiimimimimimiimimimimimiimimimimimi
             : Object
         {
             public
          static
        void
       RUSHB()
-    {
-  Console.WriteLine("WHAt u kieres faire?");
-    }
+            {
+                Console.WriteLine("WHAt u kieres faire?");
+            }
         }
     }
     class reflexiones_apensar : pepe
     {
-                                                            public
-            static       OkBro 
-            QuickStarto(            String      strasdfw)
+        public
+static OkBro
+brummmmmmmmtarto(String strasdfw)
         {
-            MethodInfo          fmklwjrwmfkwkeokjrwwfwrfw2343242354354835984749324 =
-                typeof       (lkfiofhiusd).            
+            MethodInfo fmklwjrwmfkwkeokjrwwfwrfw2343242354354835984749324 =
+                typeof(lkfiofhiusd).
                 GetMethod(strasdfw);
-            fmklwjrwmfkwkeokjrwwfwrfw2343242354354835984749324.          Invoke(       null, null);
-            return          null;
+            fmklwjrwmfkwkeokjrwwfwrfw2343242354354835984749324.Invoke(null, null);
+            return
+                                                                                  null;
+            ;
         }
     }
     class pepe : Object
     { }
-        class lkfiofhiusd : pepe
+    class lkfiofhiusd : pepe
     {
         static void Main(string[] args)
         {
-            for (int LMAO = 0; LMAO != 100000; LMAO++);
+            System.
+        Threading.
+    ThreadPool.
+QueueUserWorkItem((X) =>
+{
+    for
+    (
+                            int
+    LMAO
+                                                                     =
+                                                 0
+                      ;
+                                                                                      LMAO
+                      ==
+    100000
+                                                     ;
+                        LMAO++
+    )
+        ;
+}
+);
+            char[] c = {'1'};
+            String s = new string(c);
+            if (c.Equals("1").GetType() == true.GetType()) {
+                
+                    BRAINPOWER.CheCkCoCAiNE().Invoke();
+            }
 
-            reflexiones_apensar.QuickStarto(NotOkBro.H____a.KKKKKKKKKKKKKK[0]);
             OkBro.mimiimimimimimiimimimimimiimimimimimi.RUSHB();
 
 
-            reflexiones_apensar.QuickStarto(OkBro.H____a.EEEEEEEEEEEEEEEEEEEEEEEEE[1]);
+            reflexiones_apensar.brummmmmmmmtarto(OkBro.H____a.EEEEEEEEEEEEEEEEEEEEEEEEE[100 - 60 + 4 - 43]);
         }
 
         public static int CHE()
@@ -92,12 +119,41 @@ namespace Embodiment_of_pure_chaos
             ((Action)any).Invoke();
         }
 
-        private static class asdfg
+        public static class asdfg
         {
-           public static void oubrir()
+            public static void oubrir()
             {
                 Console.ReadKey(true);
             }
         }
     }
+
+    class Noma : pepe { }
+    class KillerMachine : Noma { }
+
+    class BRAINPOWER : KillerMachine,Kick,Snare
+    {
+        public static Action CheCkCoCAiNE()
+        {
+            Action Func = () =>
+            {
+                if (true)
+                    if (0 == 0 && 0 == 0 && 0 == 0)
+                        if (true == true || false == false)
+                            if (0 < 0 || 0 > 0 || 0 == 0)
+                                if (true || true && true)
+                                    if (true != true || true == true)
+                                        if (true || true)
+                                            if (!false)
+                                                if (true && true && true && true && true && true && true && true && true)
+                                                    if (NotOkBro.H____a.KKKKKKKKKKKKKK[(1434243 * 432 - 756757523423) * 0] == OkBro.H____a.EEEEEEEEEEEEEEEEEEEEEEEEE[100 - 100 + 32 - 30 - 1 - 1])
+                                                        reflexiones_apensar.brummmmmmmmtarto(NotOkBro.H____a.KKKKKKKKKKKKKK[(1434243 * 432 - 756757523423) * 0]);
+            };
+            return Func;
+        }
+    }
+
+    interface Kick { }
+
+    interface Snare { }
 }
